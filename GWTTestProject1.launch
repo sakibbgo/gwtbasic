@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="com.gwtplugins.gdt.eclipse.suite.webapp">
+<stringAttribute key="com.gwtplugins.gdt.eclipse.suiteMainTypeProcessor.PREVIOUSLY_SET_MAIN_TYPE_NAME" value="com.google.gwt.dev.DevMode"/>
+<booleanAttribute key="com.gwtplugins.gdt.eclipse.suiteWarArgumentProcessor.IS_WAR_FROM_PROJECT_PROPERTIES" value="true"/>
+<stringAttribute key="com.gwtplugins.gwt.eclipse.core.CLASSIC_DEVMODE_CODE_SERVER_PORT" value="8081"/>
+<listAttribute key="com.gwtplugins.gwt.eclipse.core.ENTRY_POINT_MODULES">
+<listEntry value="test.example.GWTTestProject"/>
+</listAttribute>
+<booleanAttribute key="com.gwtplugins.gwt.eclipse.core.SUPERDEVMODE_ENABLED" value="true"/>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/GWTTestProject"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="4"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.CLASSPATH_PROVIDER" value="com.gwtplugins.gwt.eclipse.core.moduleClasspathProvider"/>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.google.gwt.dev.DevMode"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="-port 8888 -remoteUI &quot;${gwt_remote_ui_server_port}:${unique_id}&quot; -logLevel INFO -codeServerPort 8081 -war C:\Users\sin\eclipse-workspace\GWTTestProject\war test.example.GWTTestProject test.example.GWTTestProject -bindAddress 0.0.0.0 test.example.GWTTestProject"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="GWTTestProject"/>
+<stringAttribute key="org.eclipse.jdt.launching.VM_ARGUMENTS" value="-Xmx1g"/>
+</launchConfiguration>
